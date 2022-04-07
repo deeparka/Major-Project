@@ -24,7 +24,7 @@ const UserPost = () => {
                         <div className="">
                             <div className="flex pt-0.5 pl-2">
                                 <div className="pr-2 font-bold">Name</div>
-                                <div>@username</div>
+                                <div className="font-light">@username</div>
                                 <div className="pt-1">
                                     <BsDot />
                                 </div>
